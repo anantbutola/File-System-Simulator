@@ -1,0 +1,54 @@
+{
+  "current_user": {
+    "username": "admin",
+    "role": "ADMIN"
+  },
+  "user_list": [
+    {
+      "username": "admin",
+      "role": "ADMIN"
+    }
+  ],
+  "root_directories": [
+    {
+      "name": "Documents",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 22:58",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Media",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 22:58",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Projects",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 22:58",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "System",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 22:58",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Trash",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 22:58",
+      "original_location": null,
+      "original_parent": null
+    }
+  ]
+}

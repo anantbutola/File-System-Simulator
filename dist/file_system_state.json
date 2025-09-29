@@ -1,0 +1,77 @@
+{
+  "current_user": {
+    "username": "admin",
+    "role": "ADMIN"
+  },
+  "user_list": [
+    {
+      "username": "admin",
+      "role": "ADMIN"
+    }
+  ],
+  "root_directories": [
+    {
+      "name": "Documents",
+      "files": [
+        {
+          "name": "games.txt",
+          "start_block": 523,
+          "block_count": 0,
+          "permissions": 1,
+          "allocation": "Contiguous",
+          "content": "",
+          "timestamp": "2025-09-29 23:31",
+          "size_bytes": 0,
+          "original_location": null
+        },
+        {
+          "name": "video.mp4",
+          "start_block": 85,
+          "block_count": 0,
+          "permissions": 1,
+          "allocation": "Contiguous",
+          "content": "",
+          "timestamp": "2025-09-29 23:31",
+          "size_bytes": 0,
+          "original_location": null
+        }
+      ],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 23:31",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Media",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 23:31",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Projects",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 23:31",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "System",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 23:31",
+      "original_location": null,
+      "original_parent": null
+    },
+    {
+      "name": "Trash",
+      "files": [],
+      "subdirectories": [],
+      "timestamp": "2025-09-29 23:31",
+      "original_location": null,
+      "original_parent": null
+    }
+  ]
+}
